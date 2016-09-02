@@ -164,4 +164,5 @@
 [advanced-open-file](https://atom.io/packages/advanced-open-file) 快速打开、切换文件
 
 [更多操作](http://www.jianshu.com/p/aa8f8a252ed9)
+
 就这些了，欢迎pull更多好用的插件！
